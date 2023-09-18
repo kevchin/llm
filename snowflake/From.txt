@@ -1,1 +1,3 @@
-SNowflake Samples
+Snowflake Samples
+Article:
+https://medium.com/snowflake/large-language-model-llm-inference-using-snowpark-optimized-warehouses-e458929798d2
